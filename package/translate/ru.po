@@ -31,7 +31,7 @@ msgstr "Календарь событий с погодой и синхрони�
 
 #: ../contents/config/config.qml
 msgid "General"
-msgstr "Главная"
+msgstr "Основное"
 
 #: ../contents/config/config.qml
 msgid "Layout"
