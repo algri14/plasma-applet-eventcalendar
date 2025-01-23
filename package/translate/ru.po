@@ -130,7 +130,7 @@ msgstr "Невозможно установить соединение"
 
 #: ../contents/ui/calendars/GoogleCalendarManager.qml ../contents/ui/Logic.qml
 msgid "Will try again soon."
-msgstr "Чуть позже повторим."
+msgstr "Повторите позже."
 
 #: ../contents/ui/calendars/GoogleCalendarManager.qml
 #: ../contents/ui/config/ConfigGoogleCalendar.qml ../contents/ui/Logic.qml
@@ -138,11 +138,11 @@ msgid ""
 "Widget has been updated. Please logout and login to Google Calendar again."
 msgstr ""
 "Виджет был обновлен. Выйдите из учетной записи Google Calendar и войдите "
-"снова."
+"заново."
 
 #: ../contents/ui/calendars/GoogleCalendarManager.qml
 msgid "Too many web requests. Will try again soon."
-msgstr "Слишком много запросов. Чуть позже повторим."
+msgstr "Слишком много запросов. Повторите позже."
 
 #: ../contents/ui/config/ConfigAgenda.qml
 msgid "Show agenda"
@@ -213,7 +213,7 @@ msgstr "Описание события"
 
 #: ../contents/ui/config/ConfigAgenda.qml
 msgid "Hide 'All Day' text"
-msgstr "Скрыть «Все дни»"
+msgstr "Скрыть текст "Весь день""
 
 #: ../contents/ui/config/ConfigAgenda.qml
 msgid "Google Hangouts link"
@@ -257,7 +257,7 @@ msgstr "Скрыть завершенные события"
 
 #: ../contents/ui/config/ConfigAgenda.qml
 msgid "Show all events of the current day (including completed events)"
-msgstr "Показать все события текущего дня (включая завершенные события)"
+msgstr "Показать все события текущего дня (включая завершённые)"
 
 #: ../contents/ui/config/ConfigAgenda.qml
 #: ../contents/ui/config/ConfigWeather.qml
@@ -422,8 +422,8 @@ msgid ""
 "Show/Hide widgets above the calendar. Toggle Agenda/Calendar on their "
 "respective tabs."
 msgstr ""
-"Показать/скрыть виджеты над календарем. Переключить обзор дня/календарь на "
-"соответствующие вкладки."
+"Показать/скрыть виджеты над календарём. Обзор дня/календарь переключается в "
+"соответствующих им вкладках."
 
 #: ../contents/ui/config/ConfigGeneral.qml
 msgid "Meteogram"
@@ -581,7 +581,7 @@ msgstr "Отправить"
 
 #: ../contents/ui/config/ConfigGoogleCalendar.qml
 msgid "Invalid Google Authorization Code"
-msgstr "Неверный код Google авторизации"
+msgstr "Неправильный код Google авторизации"
 
 #: ../contents/ui/config/ConfigGoogleCalendar.qml
 #: ../contents/ui/config/ConfigICal.qml
@@ -602,15 +602,15 @@ msgstr "Параметры"
 
 #: ../contents/ui/config/ConfigGoogleCalendar.qml
 msgid "Event Click:"
-msgstr ""
+msgstr "Клик по событию:"
 
 #: ../contents/ui/config/ConfigGoogleCalendar.qml
 msgid "Open Web Event View"
-msgstr ""
+msgstr "Открыть событие в браузере"
 
 #: ../contents/ui/config/ConfigGoogleCalendar.qml
 msgid "Open Web Month View"
-msgstr ""
+msgstr "Открыть события за месяц"
 
 #: ../contents/ui/config/ConfigGoogleCalendar.qml
 msgid "Hide \"This event was added from Goals in Google Calendar\" description"
@@ -639,11 +639,11 @@ msgstr "iCalendar (*.ics)"
 
 #: ../contents/ui/config/ConfigLayout.qml
 msgid "Calendar to the left of the Agenda (Two Columns)"
-msgstr "Календарь слева от распорядка (Две колонки)"
+msgstr "Календарь слева от описания (Две колонки)"
 
 #: ../contents/ui/config/ConfigLayout.qml
 msgid "Agenda below the Calendar (Single Column)"
-msgstr "Распорядок под календарем (Одна колонка)"
+msgstr "Календарь над описанием (Одна колонка)"
 
 #: ../contents/ui/config/ConfigTimezones.qml
 msgid "Tooltip"
@@ -687,7 +687,7 @@ msgstr "Обновление прогноза каждые: "
 
 #: ../contents/ui/config/ConfigWeather.qml
 msgid "Show next "
-msgstr "Показать "
+msgstr "Показать следующий "
 
 #: ../contents/ui/config/ConfigWeather.qml
 msgid " hour"
@@ -758,7 +758,7 @@ msgstr "Поиск"
 #: ../contents/ui/config/OpenWeatherMapCityDialog.qml
 #: ../contents/ui/config/WeatherCanadaCityDialog.qml
 msgid "Name"
-msgstr "Имя"
+msgstr "Название"
 
 #: ../contents/ui/config/OpenWeatherMapCityDialog.qml
 #: ../contents/ui/config/WeatherCanadaCityDialog.qml
@@ -883,7 +883,7 @@ msgstr "Лимит API по запросам"
 
 #: ../contents/ui/Logic.qml
 msgid "Logged out of Google. Please login again."
-msgstr "Произведен выход из Google. Войдите снова."
+msgstr "Произведён выход из Google. Войдите заново."
 
 #: ../contents/ui/main.qml
 msgid "Set Language…"
@@ -977,7 +977,7 @@ msgstr "Ближайшие события"
 #: ../contents/ui/UpcomingEvents.qml
 msgctxt "%1 = 15 minutes"
 msgid "Starting in %1"
-msgstr ""
+msgstr "Через %1"
 
 #~ msgid "Weather API limit reached, will try again soon."
 #~ msgstr "Достигнут погодный лимит API, обновится чуть позже."
