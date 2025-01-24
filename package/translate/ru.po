@@ -687,7 +687,7 @@ msgstr "Обновление прогноза каждые: "
 
 #: ../contents/ui/config/ConfigWeather.qml
 msgid "Show next "
-msgstr "Показать следующий "
+msgstr "Показать "
 
 #: ../contents/ui/config/ConfigWeather.qml
 msgid " hour"
@@ -883,7 +883,7 @@ msgstr "Лимит API по запросам"
 
 #: ../contents/ui/Logic.qml
 msgid "Logged out of Google. Please login again."
-msgstr "Произведен выход из Google. Пожалуйста войдите заново."
+msgstr "Произведён выход из Google. Пожалуйста войдите заново."
 
 #: ../contents/ui/main.qml
 msgid "Set Language…"
