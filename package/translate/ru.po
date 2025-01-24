@@ -130,14 +130,14 @@ msgstr "Невозможно установить соединение"
 
 #: ../contents/ui/calendars/GoogleCalendarManager.qml ../contents/ui/Logic.qml
 msgid "Will try again soon."
-msgstr "Повторите позже."
+msgstr "Повторите запрос позже."
 
 #: ../contents/ui/calendars/GoogleCalendarManager.qml
 #: ../contents/ui/config/ConfigGoogleCalendar.qml ../contents/ui/Logic.qml
 msgid ""
 "Widget has been updated. Please logout and login to Google Calendar again."
 msgstr ""
-"Виджет был обновлен. Выйдите из учетной записи Google Calendar и войдите "
+"Виджет был обновлён. Выйдите из учетной записи Google Calendar и войдите "
 "заново."
 
 #: ../contents/ui/calendars/GoogleCalendarManager.qml
@@ -213,7 +213,7 @@ msgstr "Описание события"
 
 #: ../contents/ui/config/ConfigAgenda.qml
 msgid "Hide 'All Day' text"
-msgstr "Скрыть текст "Весь день""
+msgstr "Скрыть в описании "Весь день""
 
 #: ../contents/ui/config/ConfigAgenda.qml
 msgid "Google Hangouts link"
@@ -253,7 +253,7 @@ msgstr "Всегда показывать следующие 14 дней"
 
 #: ../contents/ui/config/ConfigAgenda.qml
 msgid "Hide completed events"
-msgstr "Скрыть завершенные события"
+msgstr "Скрыть завершённые события"
 
 #: ../contents/ui/config/ConfigAgenda.qml
 msgid "Show all events of the current day (including completed events)"
@@ -422,7 +422,7 @@ msgid ""
 "Show/Hide widgets above the calendar. Toggle Agenda/Calendar on their "
 "respective tabs."
 msgstr ""
-"Показать/скрыть виджеты над календарём. Обзор дня/календарь переключается в "
+"Показать/скрыть виджеты над календарём. Обзор дня/календарь переключаются в "
 "соответствующих им вкладках."
 
 #: ../contents/ui/config/ConfigGeneral.qml
@@ -883,7 +883,7 @@ msgstr "Лимит API по запросам"
 
 #: ../contents/ui/Logic.qml
 msgid "Logged out of Google. Please login again."
-msgstr "Произведён выход из Google. Войдите заново."
+msgstr "Произведен выход из Google. Пожалуйста войдите заново."
 
 #: ../contents/ui/main.qml
 msgid "Set Language…"
